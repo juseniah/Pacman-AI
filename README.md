@@ -1,3 +1,5 @@
+![screenshot of pacman](pacman-screenshot.png)
+
 # Pacman AI
 Jussi Doherty
 CAP 4601 - Introduction to Artificial Intelligence - Fall 2020
