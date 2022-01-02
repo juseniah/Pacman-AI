@@ -19,7 +19,7 @@ python pacman.py --frameTime 0 -p ReflexAgent -k 2
 
 To run the reflex agent through the autograder with graphics:
 ```
-python autograder.py -q q1 —no-graphics
+python autograder.py -q q1
 ```
 
 To run it without graphics:
@@ -38,10 +38,10 @@ python pacman.py --frameTime 0 -p MinimaxAgent -k 2
 
 To run the minimax agent through the autograder with graphics:
 ```
-python autograder.py -q q1 —no-graphics
+python autograder.py -q q2
 ```
 
 To run it without graphics:
 ```
-python autograder.py -q q1 --no-graphics
+python autograder.py -q q2 --no-graphics
 ```
