@@ -1,4 +1,4 @@
-![screenshot of pacman](pacman-screenshot.png)
+![screenshot of pacman](pacman.gif)
 
 # Pacman AI
 Jussi Doherty
